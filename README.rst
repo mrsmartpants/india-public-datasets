@@ -64,7 +64,6 @@ Information and Broadcasting
 
 Information and Communications
 ================
-* `All India Pincode/Zipcode Directory <http://www.data.gov.in/resources/all-india-pincode-directory/download>`_ - CSV 14Mb
 
 Infrastructure
 ================
@@ -89,4 +88,5 @@ Rural
 
 Others
 ================
+* `All India Pincode/Zipcode Directory <http://www.data.gov.in/resources/all-india-pincode-directory/download>`_ - CSV 14Mb
 
