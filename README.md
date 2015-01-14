@@ -6,3 +6,8 @@ India Related Public Datasets
 This is a list of public data sources related to India collected from blogs, answers, and user reponses. 
 
 Most of the data sets listed below are free, however, some are not. Other amazingly awesome lists can be found in the awesome-public-datasets and another awesome list.
+
+
+All India Pincode/Zipcode Directory
+---------------
+* `All India Pincode/Zipcode Directory <http://www.data.gov.in/resources/all-india-pincode-directory/download>`_
